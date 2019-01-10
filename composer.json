@@ -1,0 +1,12 @@
+{
+    "name": "alma-soft/la-admin",
+    "description": "Laravel Admin",
+    "authors": [
+        {
+            "name": "Oleksandr Nykytin",
+            "email": "keeper@ninydev.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
